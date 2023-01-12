@@ -15,5 +15,5 @@ Web programming with python &amp; javascript
         command: python manage.py createsuperuser
 superuser details:
         username: admin
-        mail: root@gmail.com
+        mail: root@gmail.com/mdroky2016s.s.c@gmail.com
         password: lms12345
